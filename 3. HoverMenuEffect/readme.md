@@ -1,5 +1,5 @@
 # HoverMenuEffect
-
+![](HoverMenuEffect.gif)
 ## 要求
 
 - 实现HoverMenuEffect.gif动图所展示的页面，要求鼠标在每个标题上的时候，可以让对应图片从左边滑到右边，并且不透明度逐渐从0到1。
