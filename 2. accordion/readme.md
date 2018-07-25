@@ -1,5 +1,5 @@
 # Accordion
-
+![](accordion.gif)
 ## 要求
 
 - 实现accordion.gif动图所展示的效果，大部分html和css已经提供了，你需要做的就是：
